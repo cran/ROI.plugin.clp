@@ -1,0 +1,7 @@
+f1c4f688959c758a6a2dc965ed9f9c99 *DESCRIPTION
+ba2a10e109a20e6bebc0eff0da00b4b2 *NAMESPACE
+cc36520da4266d850c58afb7686a9b0b *R/plugin.R
+65d37cd72f10636245c3d0a7095a88d6 *R/zzz.R
+b27cbb3902f8ec91748be7646eef988b *README.md
+9d45697ac779b51006ba9c5ac64e4bc6 *tests/testthat.R
+df76bf96ec7c575d5116bbad810eb6a5 *tests/testthat/test_LP.R
