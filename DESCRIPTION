@@ -1,6 +1,6 @@
 Package: ROI.plugin.clp
-Version: 0.1
-Date: 2017-04-10
+Version: 0.2
+Date: 2017-05-11
 Title: 'Clp (Coin-or linear programming)' Plugin for the 'R'
         Optimization Interface
 Authors@R: c(person("Benoit", "Thieurmel", role = c("aut", "cre"), email = "benoit.thieurmel@datastorm.fr"))
@@ -15,8 +15,8 @@ URL: https://github.com/datastorm-open/ROI.plugin.clp,
 NeedsCompilation: no
 RoxygenNote: 6.0.1
 Suggests: testthat
-Packaged: 2017-04-12 14:24:22 UTC; Datastorm
+Packaged: 2017-05-11 14:46:07 UTC; Datastorm
 Author: Benoit Thieurmel [aut, cre]
 Maintainer: Benoit Thieurmel <benoit.thieurmel@datastorm.fr>
 Repository: CRAN
-Date/Publication: 2017-04-12 14:40:48 UTC
+Date/Publication: 2017-05-11 16:31:29 UTC
